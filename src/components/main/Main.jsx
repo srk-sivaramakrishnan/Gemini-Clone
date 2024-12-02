@@ -19,7 +19,7 @@ const Main = () => {
 	return (
 		<div className="main">
 			<div className="nav">
-				<p>Gemini</p>
+				<p>ChatBot</p>
 				<img src={assets.user} alt="" />
 			</div>
 			<div className="main-container">
@@ -27,7 +27,7 @@ const Main = () => {
 					<>
 						<div className="greet">
 							<p>
-								<span>Hello , Dev </span>
+								<span>Hello , Sivaramakrishnan </span>
 							</p>
 							<p>How Can i Help You Today?</p>
 						</div>
@@ -119,8 +119,8 @@ const Main = () => {
 					</div>
 					<div className="bottom-info">
 						<p>
-							Gemini may display inaccurate info, including about people, so
-							double-check its responses. Your privacy & Gemini Apps
+							ChatBot may display inaccurate info, including about people, so
+							double-check its responses. Your privacy & ChatBot Apps
 						</p>
 					</div>
 				</div>
